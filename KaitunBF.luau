@@ -1,6 +1,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/fix-lag/refs/heads/main/Fix%20Lag%20100%25.txt"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nvb201112/font-changer/refs/heads/main/cartoon.luau"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RenjiYuusei/Kasumi-Store/main/source/autorejoin.lua"))()
 local L_1_ = {}
 L_1_[3] = table["concat"]
 if not game:IsLoaded() then
